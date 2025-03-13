@@ -1,42 +1,29 @@
-# awesome-arazzo-tools
-A curated list of awesome arazzo tools and resources
 
+# Awesome Arazzo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# awesome-arazzo-tools
+[<img src="arazzo.png" align="right" width="90">](https://www.openapis.org/arazzo)
 
-A curated list of awesome open source workflow engines
+This is a collaborative community curated list of awesome Arazzo resources, tools, tutorials and other related stuff.
 
-[https://redocly.com/respect-cli](https://redocly.com/respect-cli)
+The [Arazzo](https://www.openapis.org/arazzo)  Specification is a community-driven open specification within the [OpenAPI Initiative](https://www.openapis.org/), a Linux Foundation Collaborative Project.
 
-[https://www.speakeasy.com/docs/api-contract-tests](https://www.speakeasy.com/docs/api-contract-tests)
+## Tools
 
-https://swagger.io/blog/the-arazzo-specification-a-deep-dive/
+> Tools for and using Arazzo.
 
-https://github.com/leidenheit/itarazzo-library
-
-## Open source tools
-https://docs.stoplight.io/docs/spectral/674b27b261c3c-overview
-
-https://docs.stoplight.io/docs/spectral/96c7245b504b1-arazzo-rules
-* [Respect](https://redocly.com/respect-cli) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://redocly.com/docs/respect/get-started) - Open source no-code business automation, alternative to Zapier
-* [itarazzo](https://github.com/leidenheit/itarazzo-library) [![Stars](https://img.shields.io/github/stars/leidenheit/itarazzo-library.svg)](https://github.com/aiidateam/aiida-core) - Open source workflow manager for computational science with strong focus on performance, provenance, and extensibility.
-
+- [Respect](https://redocly.com/respect-cli) - An open-source tool to run OpenAPI Arazzo workflows, identify gaps in schemas, status codes, and content types, and evaluate success criteria—all in one simple command.
+- [Apitapviz](https://codeberg.org/lornajane/apitapviz) - Python-based CLI utility for rendering human-readable representation of OpenAPI Arazzo workflows.
+- [Spectral](https://docs.stoplight.io/docs/spectral/674b27b261c3c-overview) - Spectral is a JSON/YAML linter with out of the box support for OpenAPI, Arazzo and AsyncAPI.
+- [Speakeasy](https://github.com/speakeasy-api/openapi)![Stars](https://img.shields.io/github/stars/speakeasy-api/openapi.svg)  - A set of packages and tools for working with OpenAPI and Arazzo Specification documents.
+Built on OpenAPI.
+* [itarazzo](https://github.com/leidenheit/itarazzo-library)![Stars](https://img.shields.io/github/stars/leidenheit/itarazzo-library.svg) - Library to parse, validate and execute an Arazzo specification.
 
 ## Resources
-speakeasy arazzo parser Golang Lib => Could build an arazzo validator online
 
-https://github.com/OAI/Arazzo-Specification/tree/main
+> Resources for  Arazzo.
 
-https://swagger.io/blog/the-arazzo-specification-a-deep-dive/
-
-[https://redocly.com/respect-cli](https://redocly.com/respect-cli)
-
-[https://www.speakeasy.com/docs/api-contract-tests](https://www.speakeasy.com/docs/api-contract-tests)
-
-https://swagger.io/blog/the-arazzo-specification-a-deep-dive/
-
-https://github.com/leidenheit/itarazzo-library
-
-https://redocly.com/docs/respect/get-started
-
-https://redocly.com/docs/cli/guides/lint-arazzo
+- https://github.com/OAI/Arazzo-Specification/tree/main
+- https://swagger.io/blog/the-arazzo-specification-a-deep-dive/
+- https://redocly.com/learn/arazzo/what-is-arazzo
+- https://docs.stoplight.io/docs/spectral/96c7245b504b1-arazzo-rules
+- https://www.speakeasy.com/docs/api-contract-tests
