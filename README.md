@@ -17,6 +17,7 @@ The [Arazzo](https://www.openapis.org/arazzo)  Specification is a community-driv
 - [Speakeasy](https://github.com/speakeasy-api/openapi)![Stars](https://img.shields.io/github/stars/speakeasy-api/openapi.svg)  - A set of packages and tools for working with OpenAPI and Arazzo Specification documents.
 Built on OpenAPI.
 * [itarazzo](https://github.com/leidenheit/itarazzo-library)![Stars](https://img.shields.io/github/stars/leidenheit/itarazzo-library.svg) - Library to parse, validate and execute an Arazzo specification.
+- [Redocly CLI](https://redocly.com/docs/cli) - An open-source tool for OpenAPI tasks like linting, enhancement, and bundling, with [Arazzo linting support](https://redocly.com/docs/cli/guides/lint-arazzo).
 
 ## Resources
 
